@@ -25,7 +25,7 @@ URLHarvest is a Python tool designed to simplify the extraction and manipulation
 Ensure you have Python installed. Clone the repository, install the required dependencies, and run the script.
 
 ```bash
-git clone https://github.com/yourusername/URLHarvest.git
+git clone https://github.com/bruno298/URLHarvest.git
 cd URLHarvest
 pip install -r requirements.txt
 python urlharvest.py
