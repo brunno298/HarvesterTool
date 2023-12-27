@@ -4,7 +4,7 @@
 
 ## Overview
 
-URLHarvest is a Python tool designed to simplify the extraction and manipulation of URLs from raw text. This script, developed by [Your Name], allows you to process large text blocks, extract URLs, add new ones, and remove duplicates. It also provides a user-friendly interface with an attractive and informative banner.
+URLHarvest is a Python tool designed to simplify the extraction and manipulation of URLs from raw text. This script, developed by The Guardian, allows you to process large text blocks, extract URLs, add new ones, and remove duplicates. It also provides a user-friendly interface with an attractive and informative banner.
 
 ## Features
 
